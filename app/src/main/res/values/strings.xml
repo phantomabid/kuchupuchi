@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KuchuPuchi</string>
+    <string name="notification_channel_name">KuchuPuchi Partner Touch Overlay</string>
+    <string name="notification_channel_description">Foreground service channel for KuchuPuchi partner touch overlay</string>
+    <string name="notification_title">KuchuPuchi Active</string>
+    <string name="notification_text">Touch overlay is active for your partner</string>
+</resources>

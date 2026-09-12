@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Soft Glow Background -->
+    <path
+        android:fillColor="#159E9E9E"
+        android:pathData="M 54,18 A 36,36 0 1,0 54.01,18 Z" />
+
+    <!-- Bird Tail Feathers -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M 28,58 C 18,52 14,60 20,68 C 24,72 32,66 32,62 Z" />
+
+    <!-- Main Bird Body -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 54,26 C 36,26 28,42 28,58 C 28,74 42,86 58,86 C 74,86 86,72 86,56 C 86,38 72,26 54,26 Z" />
+
+    <!-- Belly Highlight -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M 54,42 C 44,42 38,52 38,64 C 38,76 48,84 58,84 C 68,84 76,74 76,60 C 70,48 62,42 54,42 Z" />
+
+    <!-- Wing -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M 42,56 C 36,60 38,72 48,74 C 58,76 62,68 60,60 C 56,54 46,54 42,56 Z" />
+
+    <!-- Drooping Beak -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M 80,48 L 96,55 L 82,60 Z" />
+
+    <!-- Dead X_X Eyes -->
+    <path
+        android:strokeColor="#212121"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 67,41 L 75,49 M 75,41 L 67,49" />
+
+    <!-- Rosy Cheek -->
+    <path
+        android:fillColor="#22FF5252"
+        android:pathData="M 66,54 A 5,5 0 1,0 66.01,54 Z" />
+
+    <!-- Cute Legs -->
+    <path
+        android:strokeColor="#FF8F00"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 50,86 L 48,96 M 58,86 L 60,96" />
+</vector>

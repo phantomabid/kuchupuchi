@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Outer Glow Aura -->
+    <path
+        android:fillColor="#33FFD700"
+        android:pathData="M 24,6 A 18,18 0 1,0 24.01,6 Z" />
+
+    <!-- Sun Rays -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 24,4 L 24,9
+                          M 24,39 L 24,44
+                          M 4,24 L 9,24
+                          M 39,24 L 44,24
+                          M 9.86,9.86 L 13.39,13.39
+                          M 34.61,34.61 L 38.14,38.14
+                          M 9.86,38.14 L 13.39,34.61
+                          M 34.61,13.39 L 38.14,9.86" />
+
+    <!-- Outer Sun Disc -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M 24,12 A 12,12 0 1,0 24.01,12 Z" />
+
+    <!-- Inner Core Glow -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M 24,16 A 8,8 0 1,0 24.01,16 Z" />
+
+    <!-- Center Highlight -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M 24,19 A 5,5 0 1,0 24.01,19 Z" />
+</vector>

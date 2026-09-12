@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Ambient Dual Aura -->
+    <path
+        android:fillColor="#1EFFD54F"
+        android:pathData="M 40,30 A 30,30 0 1,0 40.01,30 Z" />
+    <path
+        android:fillColor="#1E29B6F6"
+        android:pathData="M 68,30 A 30,30 0 1,0 68.01,30 Z" />
+
+    <!-- Yellow Bird (Left) -->
+    <!-- Tail -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M 20,62 C 12,58 8,64 14,70 C 18,74 24,70 24,66 Z" />
+    <!-- Body -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 40,36 C 26,36 20,48 20,62 C 20,74 30,84 44,84 C 54,84 60,74 60,62 C 60,48 52,36 40,36 Z" />
+    <!-- Wing -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M 30,60 C 26,64 28,74 36,74 C 44,74 46,68 44,62 Z" />
+    <!-- Beak (Facing Right) -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M 58,54 L 68,57 L 59,62 Z" />
+    <!-- Eye -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M 52,50 A 3,3 0 1,0 52.01,50 Z" />
+    <!-- Eye Sparkle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 53,49 A 1,1 0 1,0 53.01,49 Z" />
+
+    <!-- Blue Bird (Right, Facing Left) -->
+    <!-- Tail -->
+    <path
+        android:fillColor="#0288D1"
+        android:pathData="M 88,62 C 96,58 100,64 94,70 C 90,74 84,70 84,66 Z" />
+    <!-- Body -->
+    <path
+        android:fillColor="#29B6F6"
+        android:pathData="M 68,36 C 82,36 88,48 88,62 C 88,74 78,84 64,84 C 54,84 48,74 48,62 C 48,48 56,36 68,36 Z" />
+    <!-- Wing -->
+    <path
+        android:fillColor="#039BE5"
+        android:pathData="M 78,60 C 82,64 80,74 72,74 C 64,74 62,68 64,62 Z" />
+    <!-- Beak (Facing Left) -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M 50,54 L 40,57 L 49,62 Z" />
+    <!-- Eye -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M 56,50 A 3,3 0 1,0 56.01,50 Z" />
+    <!-- Eye Sparkle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 55,49 A 1,1 0 1,0 55.01,49 Z" />
+
+    <!-- Love Heart above them -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M 54,28 C 50,22 42,24 44,30 C 46,36 54,42 54,42 C 54,42 62,36 64,30 C 66,24 58,22 54,28 Z" />
+
+    <!-- Sparkles -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 30,22 L 31,25 L 34,26 L 31,27 L 30,30 L 29,27 L 26,26 L 29,25 Z" />
+    <path
+        android:fillColor="#81D4FA"
+        android:pathData="M 78,22 L 79,25 L 82,26 L 79,27 L 78,30 L 77,27 L 74,26 L 77,25 Z" />
+</vector>

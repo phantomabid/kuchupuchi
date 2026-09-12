@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "583871350940",
+    "project_id": "kuchupuchi",
+    "storage_bucket": "kuchupuchi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583871350940:android:31520c5104bc6c63914559",
+        "android_client_info": {
+          "package_name": "com.phantom.kuchupuchi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5URI5vBGMjFAD095G4ezMfhjgdQXCdTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583871350940:android:31520c5104bc6c63914559",
+        "android_client_info": {
+          "package_name": "com.phantom.kuchupuchi.kuchu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5URI5vBGMjFAD095G4ezMfhjgdQXCdTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583871350940:android:31520c5104bc6c63914559",
+        "android_client_info": {
+          "package_name": "com.phantom.kuchupuchi.puchi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5URI5vBGMjFAD095G4ezMfhjgdQXCdTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
